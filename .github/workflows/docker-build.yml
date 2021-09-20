@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  TARGET: ddb-proxy
+  TARGET: ddb-proxy-multiarch
 
 jobs:
   build:
